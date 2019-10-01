@@ -1,0 +1,8 @@
+.website-header-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.hero-section {
+  padding: 5%;
+}
